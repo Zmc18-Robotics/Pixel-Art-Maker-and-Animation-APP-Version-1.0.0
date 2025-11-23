@@ -29,11 +29,11 @@ My App that really can make pixel art and animation, you can edit, import, expor
 # Here the pictures :
 
 You can make your own art here!
-<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/b346f658-598a-4835-a5b9-c85bc777c87a" />
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/66a3b623-2d19-4b4d-a41e-1d2ae3766036" />
 
 You can save the art to the file location that you want!
 
-<img width="503" height="98" alt="image" src="https://github.com/user-attachments/assets/672722ad-a69e-46a2-907f-9b0fb75b211c" />
+<img width="488" height="95" alt="image" src="https://github.com/user-attachments/assets/5e2a9dd3-cdf0-4fc4-ac50-c1ca9919f0e4" />
 
 You can make game assets here! its easy and simple to use!
 <img width="959" height="504" alt="pict 3" src="https://github.com/user-attachments/assets/692fb0a1-fc97-4a00-8da0-21a85b42e916" />

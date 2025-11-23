@@ -33,11 +33,11 @@ here the example :
 
 ---
 
-the program runs in Java, but dont worry, its pretty small and didnt big. its really usefull for your own website, or apps, or games, and anything more if you need assets that contains pixel art, and its 100% free and you didnt pay anything, and it can runs on offline
+the program runs in Java, but dont worry, its pretty small and didnt big. its really usefull for your own website, or apps, or games, and anything more if you need assets that contains pixel art, and its 100% free and you didn't pay anything, and it can runs on offline
 
-**You can edit and make any pixel art or pixel animation art here!**
 ---
 
+**You can edit and make any pixel art or pixel animation art here!**
 
 by the way, there is still a bug in frame delay, so you cant change to -+100 ms, so the delay is per frame is 100ms, the next update version is coming soon, or you can modify it and tell me to fix it, just dm me on my instagram @mc.zminecrafter_18~
 

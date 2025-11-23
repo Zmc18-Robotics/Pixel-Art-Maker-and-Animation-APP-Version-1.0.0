@@ -2,7 +2,8 @@
 My app that really can make pixel art and animation, you can edit, import, export, make animation, create something, and more. and also its open source!
 
 ---
-To run, find PixelArtMaker.java in src file
+
+**To run, find PixelArtMaker.java in src file**
 
 ---
 
@@ -19,7 +20,11 @@ To run, find PixelArtMaker.java in src file
 - copy is for copying the frame
 - delete is for deleting the frame
 
+---
+
 **To chose color pallete, left click the color and then you can choose the color that you want, after that just right click the color pallete that you already changed**
+
+---
 
 # Here the pictures :
 

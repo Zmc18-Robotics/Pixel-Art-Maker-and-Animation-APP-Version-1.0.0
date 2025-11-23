@@ -39,6 +39,6 @@ the program runs in Java, but dont worry, its pretty small and didnt big. its re
 ---
 
 
-by the way, there is still a bug in frame delay, so you cant change to -+100 ms, so the delay is per frame is 100ms, the next update version is coming soon, or you can modify it and tell me to fix it, just dm my instagram~
+by the way, there is still a bug in frame delay, so you cant change to -+100 ms, so the delay is per frame is 100ms, the next update version is coming soon, or you can modify it and tell me to fix it, just dm me on my instagram @mc.zminecrafter_18~
 
 Free to use! have fun~

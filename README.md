@@ -17,18 +17,19 @@ You can make game assets here! its easy and simple to use!
 You can also have the code in 4 different languange too! simple AI to make the picture turn into the code!
 <img width="959" height="502" alt="pict 4" src="https://github.com/user-attachments/assets/0a981477-1468-4c3a-bdd3-9aa67d68b347" />
 
-You can also make aniamation with it! its pretty cool right?
+You can also make animation with it! its pretty cool right?
 <img width="959" height="505" alt="pict 5" src="https://github.com/user-attachments/assets/072bcdae-01b0-466c-8c8d-dd4b18752e36" />
 
 ---
 
 You can edit and make any pixel art or pixel animation art here!
 
-to change the color pallete you can use left click in the color and choose the color that you want, then right click the color pallete that you already change, its pretty simple
+to change the color pallete you can use left click in the color and choose the color that you want, then right click the color pallete that you already change, its pretty simple, like this ( the change color functions ) :
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/c357d9ac-0298-4139-a9ea-5d170466ebc1" />
 
 to erase it just left click it, easy!
 
-the program runs in Java, but dont worry, its pretty small and didnt big. its really usefull for your own website, or apps, or games, and anything more if you need assets that contains pixel art, and its 100% free and you didnt pay anything
+the program runs in Java, but dont worry, its pretty small and didnt big. its really usefull for your own website, or apps, or games, and anything more if you need assets that contains pixel art, and its 100% free and you didnt pay anything, and it can runs on offline
 
 ---
 

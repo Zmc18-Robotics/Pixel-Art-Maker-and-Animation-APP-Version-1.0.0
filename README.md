@@ -17,19 +17,19 @@ You can make game assets here! its easy and simple to use!
 <img width="959" height="504" alt="pict 3" src="https://github.com/user-attachments/assets/692fb0a1-fc97-4a00-8da0-21a85b42e916" />
 
 You can also have the code in 4 different languange too! simple AI to make the picture turn into the code!
-<img width="959" height="502" alt="pict 4" src="https://github.com/user-attachments/assets/0a981477-1468-4c3a-bdd3-9aa67d68b347" />
+<img width="959" height="505" alt="pict 9" src="https://github.com/user-attachments/assets/83d6f471-6609-473e-bf7f-df728a21f29f" />
 
 You can also make animation with it! its pretty cool right?
-<img width="959" height="505" alt="pict 5" src="https://github.com/user-attachments/assets/072bcdae-01b0-466c-8c8d-dd4b18752e36" />
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/aa526f1a-fc78-4d94-b86c-a81db3a9dd6a" />
 
 to change the color pallete you can use left click in the color and choose the color that you want, then right click the color pallete that you already change, its pretty simple, like this ( the change color functions ) :
-<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/c357d9ac-0298-4139-a9ea-5d170466ebc1" />
+<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/751d020a-166d-48a6-a856-e8d275eb80aa" />
 
 You can also set the pixel size that you want and also change the background that you want ( white, black, and transparent ), and also you can change the theme ( white, dark, and cozy )
-<img width="959" height="500" alt="pict 7" src="https://github.com/user-attachments/assets/64aa89b8-574b-4257-9da7-4487322a3767" />
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/ffed2cd9-b88e-40ec-9c08-4c4307cddd10" />
 
 here the example :
-<img width="959" height="502" alt="pict 8" src="https://github.com/user-attachments/assets/48bb72cb-e7e8-4e93-9a71-e00be825a210" />
+<img width="959" height="502" alt="pict 13" src="https://github.com/user-attachments/assets/73da0a9a-744c-48ad-b632-0b7e83cbef92" />
 
 ---
 

@@ -3,7 +3,7 @@ My App that really can make pixel art and animation, you can edit, import, expor
 
 ---
 
-**To run, find PixelArtMaker.java in src file**
+**To run, find PixelArtMaker in the folder ( Executable Jar File ), then just press it. no Vscode or code editor required in this version**
 
 ---
 

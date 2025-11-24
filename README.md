@@ -4,6 +4,7 @@ My App that really can make pixel art and animation, you can edit, import, expor
 ---
 
 **To run, find PixelArtMaker in the folder ( Executable Jar File ), then just press it. no Vscode or code editor required in this version**
+<img width="563" height="75" alt="image" src="https://github.com/user-attachments/assets/ff2f89e4-1976-41f6-898c-8b28191c40be" />
 
 ---
 
